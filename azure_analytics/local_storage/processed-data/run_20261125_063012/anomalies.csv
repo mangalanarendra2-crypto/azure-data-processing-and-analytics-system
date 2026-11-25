@@ -1,0 +1,4 @@
+device_id,timestamp,temperature_c,humidity_pct,zscore,reason
+SENSOR-02,2026-11-24 09:20:00,38.4,50.2,3.01,over temperature limit
+SENSOR-02,2026-11-24 09:30:00,40.1,52.9,3.36,over temperature limit
+SENSOR-02,2026-11-24 09:40:00,39.2,53.4,3.18,over temperature limit

@@ -1,0 +1,4 @@
+device_id,readings,avg_temp_c,min_temp_c,max_temp_c,avg_humidity_pct
+SENSOR-01,140,21.99,15.19,28.29,54.98
+SENSOR-02,143,23.84,16.24,40.1,54.88
+SENSOR-03,142,20.99,13.92,27.7,54.99
